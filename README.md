@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Simple Calculator Project             |  The calculator computes numbers keyed in as per the operand entered             | https://github.com/emmanuelkipngetich/Simple-Calculator-Project      |
+| 2 |   Bidding Game Project          | Allows a user to do random bids         | https://github.com/emmanuelkipngetich/Bidding-Game-      |
+| 3 |  GMAT Qualification Exam    | This is a GMAT qualification quiz comprising 10 questions         | https://github.com/emmanuelkipngetich/GMAT-Qualification-Quiz      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
